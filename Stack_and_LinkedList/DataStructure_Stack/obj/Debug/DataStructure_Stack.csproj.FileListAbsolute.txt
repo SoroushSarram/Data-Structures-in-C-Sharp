@@ -1,0 +1,40 @@
+D:\LaSalle College\420-SD4-AS\Glauber\Docs\Final Project 1\FinalProject1\DataStructure_Stack\obj\Debug\DataStructure_Stack.csproj.AssemblyReference.cache
+D:\LaSalle College\420-SD4-AS\Glauber\Docs\Final Project 1\FinalProject1\DataStructure_Stack\obj\Debug\DataStructure_Stack.csproj.SuggestedBindingRedirects.cache
+D:\LaSalle College\420-SD4-AS\Glauber\Docs\Final Project 1\FinalProject1\DataStructure_Stack\obj\Debug\DataStructure_Stack.csproj.CoreCompileInputs.cache
+D:\LaSalle College\420-SD4-AS\Glauber\Docs\Final Project 1\FinalProject1\DataStructure_Stack\bin\Debug\DataStructure_Stack.exe.config
+D:\LaSalle College\420-SD4-AS\Glauber\Docs\Final Project 1\FinalProject1\DataStructure_Stack\bin\Debug\DataStructure_Stack.exe
+D:\LaSalle College\420-SD4-AS\Glauber\Docs\Final Project 1\FinalProject1\DataStructure_Stack\bin\Debug\DataStructure_Stack.pdb
+D:\LaSalle College\420-SD4-AS\Glauber\Docs\Final Project 1\FinalProject1\DataStructure_Stack\obj\Debug\DataStructure_Stack.exe
+D:\LaSalle College\420-SD4-AS\Glauber\Docs\Final Project 1\FinalProject1\DataStructure_Stack\obj\Debug\DataStructure_Stack.pdb
+D:\LaSalle College\420-SD4-AS\Glauber\Docs\Final Project 1\FinalProject1_SOLUTION\DataStructure_Stack\bin\Debug\DataStructure_Stack.exe.config
+D:\LaSalle College\420-SD4-AS\Glauber\Docs\Final Project 1\FinalProject1_SOLUTION\DataStructure_Stack\bin\Debug\DataStructure_Stack.exe
+D:\LaSalle College\420-SD4-AS\Glauber\Docs\Final Project 1\FinalProject1_SOLUTION\DataStructure_Stack\bin\Debug\DataStructure_Stack.pdb
+D:\LaSalle College\420-SD4-AS\Glauber\Docs\Final Project 1\FinalProject1_SOLUTION\DataStructure_Stack\obj\Debug\DataStructure_Stack.csproj.AssemblyReference.cache
+D:\LaSalle College\420-SD4-AS\Glauber\Docs\Final Project 1\FinalProject1_SOLUTION\DataStructure_Stack\obj\Debug\DataStructure_Stack.csproj.SuggestedBindingRedirects.cache
+D:\LaSalle College\420-SD4-AS\Glauber\Docs\Final Project 1\FinalProject1_SOLUTION\DataStructure_Stack\obj\Debug\DataStructure_Stack.csproj.CoreCompileInputs.cache
+D:\LaSalle College\420-SD4-AS\Glauber\Docs\Final Project 1\FinalProject1_SOLUTION\DataStructure_Stack\obj\Debug\DataStructure_Stack.exe
+D:\LaSalle College\420-SD4-AS\Glauber\Docs\Final Project 1\FinalProject1_SOLUTION\DataStructure_Stack\obj\Debug\DataStructure_Stack.pdb
+D:\LaSalle College\420-SD4-AS\Glauber\Docs\Final Project 1\FinalProject1_EXAM\DataStructure_Stack\bin\Debug\DataStructure_Stack.exe.config
+D:\LaSalle College\420-SD4-AS\Glauber\Docs\Final Project 1\FinalProject1_EXAM\DataStructure_Stack\bin\Debug\DataStructure_Stack.exe
+D:\LaSalle College\420-SD4-AS\Glauber\Docs\Final Project 1\FinalProject1_EXAM\DataStructure_Stack\bin\Debug\DataStructure_Stack.pdb
+D:\LaSalle College\420-SD4-AS\Glauber\Docs\Final Project 1\FinalProject1_EXAM\DataStructure_Stack\obj\Debug\DataStructure_Stack.csproj.AssemblyReference.cache
+D:\LaSalle College\420-SD4-AS\Glauber\Docs\Final Project 1\FinalProject1_EXAM\DataStructure_Stack\obj\Debug\DataStructure_Stack.csproj.SuggestedBindingRedirects.cache
+D:\LaSalle College\420-SD4-AS\Glauber\Docs\Final Project 1\FinalProject1_EXAM\DataStructure_Stack\obj\Debug\DataStructure_Stack.csproj.CoreCompileInputs.cache
+D:\LaSalle College\420-SD4-AS\Glauber\Docs\Final Project 1\FinalProject1_EXAM\DataStructure_Stack\obj\Debug\DataStructure_Stack.exe
+D:\LaSalle College\420-SD4-AS\Glauber\Docs\Final Project 1\FinalProject1_EXAM\DataStructure_Stack\obj\Debug\DataStructure_Stack.pdb
+D:\LaSalle College\420-SD4-AS\Glauber\Docs\Final Project 1\FinalProject1_EXAM (light interface)\DataStructure_Stack\bin\Debug\DataStructure_Stack.exe.config
+D:\LaSalle College\420-SD4-AS\Glauber\Docs\Final Project 1\FinalProject1_EXAM (light interface)\DataStructure_Stack\bin\Debug\DataStructure_Stack.exe
+D:\LaSalle College\420-SD4-AS\Glauber\Docs\Final Project 1\FinalProject1_EXAM (light interface)\DataStructure_Stack\bin\Debug\DataStructure_Stack.pdb
+D:\LaSalle College\420-SD4-AS\Glauber\Docs\Final Project 1\FinalProject1_EXAM (light interface)\DataStructure_Stack\obj\Debug\DataStructure_Stack.csproj.AssemblyReference.cache
+D:\LaSalle College\420-SD4-AS\Glauber\Docs\Final Project 1\FinalProject1_EXAM (light interface)\DataStructure_Stack\obj\Debug\DataStructure_Stack.csproj.SuggestedBindingRedirects.cache
+D:\LaSalle College\420-SD4-AS\Glauber\Docs\Final Project 1\FinalProject1_EXAM (light interface)\DataStructure_Stack\obj\Debug\DataStructure_Stack.csproj.CoreCompileInputs.cache
+D:\LaSalle College\420-SD4-AS\Glauber\Docs\Final Project 1\FinalProject1_EXAM (light interface)\DataStructure_Stack\obj\Debug\DataStructure_Stack.exe
+D:\LaSalle College\420-SD4-AS\Glauber\Docs\Final Project 1\FinalProject1_EXAM (light interface)\DataStructure_Stack\obj\Debug\DataStructure_Stack.pdb
+C:\Users\Suguna\Downloads\FinalProject1\DataStructure_Stack\bin\Debug\DataStructure_Stack.exe.config
+C:\Users\Suguna\Downloads\FinalProject1\DataStructure_Stack\bin\Debug\DataStructure_Stack.exe
+C:\Users\Suguna\Downloads\FinalProject1\DataStructure_Stack\bin\Debug\DataStructure_Stack.pdb
+C:\Users\Suguna\Downloads\FinalProject1\DataStructure_Stack\obj\Debug\DataStructure_Stack.csproj.AssemblyReference.cache
+C:\Users\Suguna\Downloads\FinalProject1\DataStructure_Stack\obj\Debug\DataStructure_Stack.csproj.SuggestedBindingRedirects.cache
+C:\Users\Suguna\Downloads\FinalProject1\DataStructure_Stack\obj\Debug\DataStructure_Stack.csproj.CoreCompileInputs.cache
+C:\Users\Suguna\Downloads\FinalProject1\DataStructure_Stack\obj\Debug\DataStructure_Stack.exe
+C:\Users\Suguna\Downloads\FinalProject1\DataStructure_Stack\obj\Debug\DataStructure_Stack.pdb

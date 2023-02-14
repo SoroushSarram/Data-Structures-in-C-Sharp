@@ -1,0 +1,16 @@
+D:\Projects\DCLinkedLists\DCLinkedLists\bin\Debug\DCLinkedLists.exe.config
+D:\Projects\DCLinkedLists\DCLinkedLists\bin\Debug\DCLinkedLists.exe
+D:\Projects\DCLinkedLists\DCLinkedLists\bin\Debug\DCLinkedLists.pdb
+D:\Projects\DCLinkedLists\DCLinkedLists\obj\Debug\DCLinkedLists.csproj.AssemblyReference.cache
+D:\Projects\DCLinkedLists\DCLinkedLists\obj\Debug\DCLinkedLists.csproj.SuggestedBindingRedirects.cache
+D:\Projects\DCLinkedLists\DCLinkedLists\obj\Debug\DCLinkedLists.csproj.CoreCompileInputs.cache
+D:\Projects\DCLinkedLists\DCLinkedLists\obj\Debug\DCLinkedLists.exe
+D:\Projects\DCLinkedLists\DCLinkedLists\obj\Debug\DCLinkedLists.pdb
+C:\Users\sarra\source\repos\DCLinkedLists\DCLinkedLists\bin\Debug\DCLinkedLists.exe.config
+C:\Users\sarra\source\repos\DCLinkedLists\DCLinkedLists\bin\Debug\DCLinkedLists.exe
+C:\Users\sarra\source\repos\DCLinkedLists\DCLinkedLists\bin\Debug\DCLinkedLists.pdb
+C:\Users\sarra\source\repos\DCLinkedLists\DCLinkedLists\obj\Debug\DCLinkedLists.csproj.AssemblyReference.cache
+C:\Users\sarra\source\repos\DCLinkedLists\DCLinkedLists\obj\Debug\DCLinkedLists.csproj.SuggestedBindingRedirects.cache
+C:\Users\sarra\source\repos\DCLinkedLists\DCLinkedLists\obj\Debug\DCLinkedLists.csproj.CoreCompileInputs.cache
+C:\Users\sarra\source\repos\DCLinkedLists\DCLinkedLists\obj\Debug\DCLinkedLists.exe
+C:\Users\sarra\source\repos\DCLinkedLists\DCLinkedLists\obj\Debug\DCLinkedLists.pdb
